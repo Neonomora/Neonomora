@@ -22,19 +22,23 @@
 <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
 </p>
 
-<div><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=neonomora&show_icons=true&locale=en&layout=compact" alt="neonomora" /></div>
+<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=neonomora&show_icons=true&locale=en&layout=compact"/></div>
 
-<div>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=neonomora&show_icons=true&locale=en" alt="neonomora" /></div>
+#
 
-<dvi><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=neonomora&" alt="neonomora" /></dvi>
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=neonomora&show_icons=true&locale=en"/></div>
+
+#
+
+<div align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=neonomora&" alt="neonomora" /></div>
+
+#
 
 <div align="center">
   <a href="https://open.spotify.com/user/9znhqvmbyja1rm6oipcd3jujw">
     <img src="https://spotify-recently-played-readme.vercel.app/api?user=9znhqvmbyja1rm6oipcd3jujw&count=1&unique=true" alt="Spotify recently played"  />
   </a>
 </div>
-
-###
 
 <img src="https://raw.githubusercontent.com/Neonomora/Neonomora/output/snake.svg" alt="Snake animation" />
 
