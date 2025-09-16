@@ -22,11 +22,11 @@
 <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=neonomora&show_icons=true&locale=en&layout=compact" alt="neonomora" /></p>
+<div><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=neonomora&show_icons=true&locale=en&layout=compact" alt="neonomora" /></div>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=neonomora&show_icons=true&locale=en" alt="neonomora" /></p>
+<div>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=neonomora&show_icons=true&locale=en" alt="neonomora" /></div>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=neonomora&" alt="neonomora" /></p>
+<dvi><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=neonomora&" alt="neonomora" /></dvi>
 
 <div align="center">
   <a href="https://open.spotify.com/user/9znhqvmbyja1rm6oipcd3jujw">
