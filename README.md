@@ -27,3 +27,15 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=neonomora&show_icons=true&locale=en" alt="neonomora" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=neonomora&" alt="neonomora" /></p>
+
+<div align="center">
+  <a href="https://open.spotify.com/user/9znhqvmbyja1rm6oipcd3jujw">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=9znhqvmbyja1rm6oipcd3jujw&count=1&unique=true" alt="Spotify recently played"  />
+  </a>
+</div>
+
+###
+
+<img src="https://raw.githubusercontent.com/Neonomora/Neonomora/output/snake.svg" alt="Snake animation" />
+
+###
